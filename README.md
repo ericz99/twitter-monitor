@@ -24,7 +24,7 @@ Currently under development... Just wait pls. I'm currently busy and it's on hol
 
 ## Disclaimer
 
-This project was made for educational purposes only. Please use responsibly. Any abused from this script will result in suspension from twitter.
+This project was made for educational purposes only. Please use responsibly. Any abused from this script will result in suspension by twitter.
 
 ## Social Media
 
