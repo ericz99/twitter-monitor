@@ -11,4 +11,4 @@ Currently under development... Just wait pls. I'm currently busy and it's on hol
 
 ## Social Media
 
-Follow me @washed_kid on twitter!
+Follow me https://twitter.com/washed_kid on twitter!
