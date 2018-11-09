@@ -14,6 +14,7 @@ Currently under development... Just wait pls. I'm currently busy and it's on hol
 - Colors
 - Twit
 - Console-stamp
+- Request
 
 ## Usage
 
