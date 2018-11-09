@@ -1,5 +1,7 @@
 /* Special Thank you to _luqy or matt, don't know you but, I want to give you credit! */
 
+/* LINE: 108; just do another if statement to check if keyword does not match, which means we get anything the user tweets from most recent! */
+
 try {
   require("console-stamp")(console, {
     colors: {
