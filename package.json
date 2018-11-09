@@ -19,6 +19,7 @@
   "dependencies": {
     "colors": "^1.3.2",
     "console-stamp": "^0.2.7",
+    "request": "^2.88.0",
     "twit": "^2.2.11"
   }
 }

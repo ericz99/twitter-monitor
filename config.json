@@ -1,9 +1,9 @@
 {
-  "interval": 1000,
+  "interval": 5000,
   "app": {
     "other": {
-      "twittername": ["cybersole", "destroyerbots"],
-      "keywords": ["Restock", "Password", "Live"]
+      "twittername": ["cybersole", "washed_kid", "destroyerbots"],
+      "keywords": ["Restock", "Password", "Test"]
     },
     "consumer": {
       "key": "sQpklAhQp4GU0U3dQ7qHtLSPL",
@@ -13,5 +13,6 @@
       "token": "3648333676-BOQJc5Rm9udIYwn7ULRBrVNJFveRZh4whFje126",
       "secret": "rDiR4CGdL77Z0JIoejSD3oaSCPhADXQ3Kvk9Zs5elHNXk"
     }
-  }
+  },
+  "webhook": "https://discordapp.com/api/webhooks/510314361865240591/KI080uVUm8w6MSP9XvwxJTW0oWoFnpERat4NJscuXdKeE4P_Lu40GFvxy2Iu65qcpaxv"
 }
