@@ -15,6 +15,7 @@ Still under development, almost finished with OCR monitor/configuration + keywor
 - Twit
 - Console-stamp
 - Request
+- Dateformat
 
 ## Usage
 
