@@ -4,7 +4,7 @@
   "description": "Twitter Monitor - allows user to monitor twitter page like cyber, pd, eve, etc",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   "dependencies": {
     "colors": "^1.3.2",
     "console-stamp": "^0.2.7",
+    "dateformat": "^3.0.3",
     "request": "^2.88.0",
     "twit": "^2.2.11"
   }
