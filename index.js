@@ -64,7 +64,10 @@ let headers = {
       });
 
       stream.on("tweet", tweet => {
-        if (!this.tweetID.includes(tweet.id_str)) {
+        if (
+          !this.tweetID.includes(tweet.id_str) &&
+          this.userID.includes(tweet.user.id_str)
+        ) {
           this.tweetID.push(tweet.id_str);
           log.green("****** TWEET DETECTED ******");
           log.blue(`[USER: ${tweet.user.screen_name}] - Just tweeted!`);
