@@ -1,7 +1,7 @@
 # Twitter Monitor OCR
 
 You are able to monitor any twitter page, such as, @cybersole, @destroyerbots, and more!
-Currently under development... Just wait pls. I'm currently busy and it's on hold right now!
+Still under development, almost finished with OCR monitor/configuration + keyword monitor features
 
 ## Instruction
 
