@@ -3,6 +3,13 @@
 You are able to monitor any twitter page, such as, @cybersole, @destroyerbots, and more!
 Still under development, almost finished with OCR monitor/configuration + keyword monitor features
 
+## Features
+
+- Highly customizable
+- Can ping any roles in discord. - coming soon
+- OCR
+- many more...
+
 ## Instruction
 
 - NPM install
@@ -26,7 +33,7 @@ Still under development, almost finished with OCR monitor/configuration + keywor
 
 ## Disclaimer
 
-This project was made for educational purposes only. Please use responsibly. Any abused from this script will result in suspension by twitter.
+This project was made for educational purposes only. Please use it responsibly. Any abused from this script will result in suspension by twitter.
 
 ## Social Media
 
