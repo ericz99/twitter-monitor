@@ -53,7 +53,11 @@ let headers = {
       });
     },
     startMonitor: function() {
-      var stream = T.stream("statuses/filter", { follow: this.userID });
+      var stream = T.stream("statuses/filter", {
+        follow: this.userID,
+        exclude_replies: true,
+        include_rts: false
+      });
 
       stream.on("connected", res => {
         log.green(
