@@ -35,6 +35,4 @@ Still under development, almost finished with OCR monitor/configuration + keywor
 
 This project was made for educational purposes only. Please use it responsibly. Any abused from this script will result in suspension by twitter.
 
-## Social Media
 
-Follow me https://twitter.com/washed_kid on twitter!
